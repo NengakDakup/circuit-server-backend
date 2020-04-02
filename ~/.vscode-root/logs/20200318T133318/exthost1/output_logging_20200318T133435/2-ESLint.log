@@ -1,0 +1,91 @@
+[Info  - 1:34:35 PM] ESLint server stopped.
+[Info  - 1:34:36 PM] ESLint server running in node v10.11.0
+[Info  - 1:34:36 PM] ESLint server is running.
+[Info  - 1:34:38 PM] 
+Failed to load the ESLint library for the document /home/nengak/Documents/Projects/circuit-server/models/Generated.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder circuit-server
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder circuit-server by executing the 'Disable ESLint' command.
+[Info  - 1:34:38 PM] 
+Failed to load the ESLint library for the document /home/nengak/Documents/Projects/circuit-server/package.json
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder circuit-server
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder circuit-server by executing the 'Disable ESLint' command.
+[Info  - 1:34:38 PM] 
+Failed to load the ESLint library for the document /home/nengak/Documents/Projects/circuit-server/models/User.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder circuit-server
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder circuit-server by executing the 'Disable ESLint' command.
+[Info  - 1:34:38 PM] 
+Failed to load the ESLint library for the document /home/nengak/Documents/Projects/circuit-server/models/User.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder circuit-server
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder circuit-server by executing the 'Disable ESLint' command.
+[Info  - 1:34:40 PM] 
+Failed to load the ESLint library for the document /home/nengak/Documents/Projects/circuit-server/models/Generated.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder circuit-server
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder circuit-server by executing the 'Disable ESLint' command.
+[Info  - 1:34:41 PM] 
+Failed to load the ESLint library for the document /home/nengak/Documents/Projects/circuit-server/models/User.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder circuit-server
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder circuit-server by executing the 'Disable ESLint' command.
+[Info  - 1:36:13 PM] 
+Failed to load the ESLint library for the document /home/nengak/Documents/Projects/circuit-server/models/Consumed.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder circuit-server
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder circuit-server by executing the 'Disable ESLint' command.
+[Info  - 1:36:16 PM] 
+Failed to load the ESLint library for the document /home/nengak/Documents/Projects/circuit-server/node_modules/mongoose/index.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder circuit-server
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder circuit-server by executing the 'Disable ESLint' command.
+[Info  - 1:39:31 PM] 
+Failed to load the ESLint library for the document /home/nengak/Documents/Projects/circuit-server/routes/api/auth.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder circuit-server
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder circuit-server by executing the 'Disable ESLint' command.
+[Info  - 1:52:50 PM] 
+Failed to load the ESLint library for the document /home/nengak/Documents/Projects/circuit-server/package.json
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder circuit-server
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder circuit-server by executing the 'Disable ESLint' command.
+[Info  - 1:56:31 PM] 
+Failed to load the ESLint library for the document /home/nengak/Documents/Projects/circuit-server/server.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder circuit-server
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder circuit-server by executing the 'Disable ESLint' command.
