@@ -10,7 +10,7 @@ dotenv.config();
 // Load the routes from the api
 // const auth = require('./routes/api/auth');
 const stats = require('./routes/api/stats');
-// const notification = require('./routes/api/notification')
+const control = require('./routes/api/control')
 
 // Initialize the app
 const app = express();
@@ -35,7 +35,7 @@ const db = process.env.localURI;
 // Load the routes into the application
 // app.use('/api/auth', auth);
 app.use('/api', stats);
-// app.use('/api/notification', notification);
+app.use('/api/control', control);
 
 // Select the port for the application
 const port = process.env.PORT || 5000;
