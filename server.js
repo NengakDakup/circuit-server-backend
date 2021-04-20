@@ -9,7 +9,7 @@ dotenv.config();
 
 // Load the routes from the api
 // const auth = require('./routes/api/auth');
-// const overview = require('./routes/api/overview');
+const stats = require('./routes/api/stats');
 // const notification = require('./routes/api/notification')
 
 // Initialize the app
@@ -34,7 +34,7 @@ const db = process.env.localURI;
 
 // Load the routes into the application
 // app.use('/api/auth', auth);
-// app.use('/api/overview', overview);
+app.use('/api', stats);
 // app.use('/api/notification', notification);
 
 // Select the port for the application
