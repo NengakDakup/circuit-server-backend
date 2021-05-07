@@ -8,9 +8,9 @@ const dotenv = require('dotenv');
 dotenv.config();
 
 // Load the routes from the api
-// const auth = require('./routes/api/auth');
-const stats = require('./routes/api/stats');
-const control = require('./routes/api/control')
+const auth = require('./routes/api/auth');
+// const stats = require('./routes/api/stats');
+// const control = require('./routes/api/control')
 
 // Initialize the app
 const app = express();
@@ -28,14 +28,14 @@ app.use(bodyParser.json());
 const db = process.env.localURI;
 
 // Connect to the mongodb
-// mongoose.connect(process.env.localURI || db, { useNewUrlParser: true, useUnifiedTopology: true })
-//     .then(() => console.log("MongoDB Connected"))
-//     .catch((err) => console.log(err));
+mongoose.connect(process.env.localURI || db, { useNewUrlParser: true, useUnifiedTopology: true })
+    .then(() => console.log("MongoDB Connected"))
+    .catch((err) => console.log(err));
 
 // Load the routes into the application
-// app.use('/api/auth', auth);
-app.use('/api', stats);
-app.use('/api/control', control);
+app.use('/api/auth', auth);
+// app.use('/api', stats);
+// app.use('/api/control', control);
 
 // Select the port for the application
 const port = process.env.PORT || 5000;
